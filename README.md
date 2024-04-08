@@ -44,6 +44,9 @@ Dive into video processing and object tracking with this second midterm project!
 
 
 Movements:
+
+
+
 ![image](https://github.com/BraulioAlejandroNavarreteHorta/BallTrackingDetection/assets/133619100/2e60fe79-5e18-48e7-b195-f9a032de8853)
 ![image](https://github.com/BraulioAlejandroNavarreteHorta/BallTrackingDetection/assets/133619100/8def7593-6b0e-4828-a7b1-e840ebfba21e)
 
